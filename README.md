@@ -3,7 +3,7 @@
 ## :one: 使用前准备
 
 ### 1.  硬件BOM已同步至FI-1/1.hardware/Bom.list；
-### 2.  硬件Gerber文件已同步至FI-1/1.hardware/gerber,可直接打样；
+### 2.  硬件Gerber文件已同步至FI-1/1.hardware/gerber,可直接打样（板厚1.2mm）；
 ### 3.  程序bin文件已同步至FI-1/2.firmware；
 ### 4.  3D打印文件已同步至FI-1/3.STL；
 ### 5.  ESP32程序下载工具已同步至FI-1/5.tools；
