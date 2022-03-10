@@ -89,7 +89,7 @@
 
 ### 1.  主要贡献：@[FanTech](https://space.bilibili.com/12102785) @[字节猫](https://space.bilibili.com/177322563) 
 ### 2.  壁纸拍摄：(龙镇夜空) @[远山淡影x ](https://space.bilibili.com/378962375)
-### 3.  感谢@[Derek Eder](https://github.com/derekeder/csv-to-html-table),[forinfo.org](https://www.forinfo.org)天气城市代码查询网页基于 **Derek Eder** 修改
+### 3.  感谢@[Derek Eder](https://github.com/derekeder/csv-to-html-table),[forinfo.org](https://www.forinfo.org)查询网页基于 **Derek Eder** 修改
 ### 4.  感谢@[tzapu](https://github.com/tzapu/WiFiManager),wifi配置界面基于 **tzapu** 作者汉化及修改
 ### 5.  项目开发基于[乐鑫ESP32](https://github.com/espressif/arduino-esp32)及[LVGL开源框架](https://github.com/lvgl/lvgl)支持
 ### 6.  gitee地址：[https://gitee.com/FanTech](https://gitee.com/FanTech)
