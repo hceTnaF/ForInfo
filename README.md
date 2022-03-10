@@ -75,7 +75,7 @@
 3）手工焊接先检查电源，再通电开机；
 
 ### 2.  装配注意
-屏幕左右两侧螺丝为 **M1.5*5** 共2个；底座小板固定及盖板固定为 **M2*5** 共8个；
+屏幕左右两侧螺丝为 **M1.6长度4mm** 共2个；底座小板固定及盖板固定为 **M1.6长度5mm** 共8个；
 ### 3.  使用注意
 1）温湿度传感器由于周围板子温度、环境温度干扰与实际室温不相符合，数据仅供参考；
 
@@ -83,13 +83,13 @@
 
 3）type-C数据线用于对装置的供电以及程序下载，尽可能选择带有数据功能5V1A以上线材，电源适配器供电电流≥1A；
 
-4）该作品仅限用户个人DIY， **禁止个人私自商品化** ，工作问题请在B站私信联系[@FanTech](https://space.bilibili.com/12102785).
+4）该作品仅限用户个人DIY， **禁止个人私自产品化** ，商务工作请在B站私信联系[@FanTech](https://space.bilibili.com/12102785).
 
 ## :five: 关于
 
 ### 1.  主要贡献：@[FanTech](https://space.bilibili.com/12102785) @[字节猫](https://space.bilibili.com/177322563) 
 ### 2.  壁纸拍摄：(龙镇夜空) @[远山淡影x ](https://space.bilibili.com/378962375)
-### 3.  感谢@[Derek Eder](https://github.com/derekeder/csv-to-html-table)网页支持
+### 3.  感谢@[Derek Eder](https://github.com/derekeder/csv-to-html-table),[forinfo.org](https://www.forinfo.org)天气城市代码查询网页基于 **Derek Eder** 修改
 ### 4.  感谢@[tzapu](https://github.com/tzapu/WiFiManager),wifi配置界面基于 **tzapu** 作者汉化及修改
 ### 5.  项目开发基于[乐鑫ESP32](https://github.com/espressif/arduino-esp32)及[LVGL开源框架](https://github.com/lvgl/lvgl)支持
 ### 6.  gitee地址：[https://gitee.com/FanTech](https://gitee.com/FanTech)
