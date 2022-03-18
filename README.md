@@ -2,16 +2,16 @@
 
 ## :one: 使用前准备
 
-### 1.  硬件BOM已同步至FI-1/1.hardware/Bom.list；
-### 2.  硬件Gerber文件已同步至FI-1/1.hardware/gerber,可直接打样（板厚1.2mm）；
-### 3.  程序bin文件已同步至FI-1/2.firmware；
-### 4.  3D打印文件已同步至FI-1/3.STL；
-### 5.  ESP32程序下载工具已同步至FI-1/5.tools；
+### 1.  硬件BOM已同步至ForInfo/1.hardware/Bom.list；
+### 2.  硬件Gerber文件已同步至ForInfo/1.hardware/gerber,可直接打样（板厚1.2mm）；
+### 3.  程序bin文件已同步至ForInfo/2.firmware；
+### 4.  3D打印文件已同步至ForInfo/3.STL；
+### 5.  ESP32程序下载工具已同步至ForInfo/5.tools；
 ### 6.  天气城市代码获取流程：
 硬件初始化或重置后的流程中，需要在web界面填写天气城市代码以获取对应地区的天气信息，
 为方便查询，可登录 [forinfo.org](https://www.forinfo.org) 快速获取，流程如下：
 
-#### **1）登陆网站后，等待数据加载完毕；** 
+#### **1）登录网站后，等待数据加载完毕；** 
 ![数据加载](4.docs/1-1.png)
 #### **2）在右上角搜索框内，可输入相应地名或区域编码完成搜索；** 
 ![数据搜索](4.docs/1-2.png)
@@ -58,7 +58,7 @@
 装置中间的按键，单次可调节屏幕亮度，分别为：100%、70%、40、10%以及自动调节亮度，如下所示：
 ![亮度调节](4.docs/3-6.png)
 #### 6）系统重置
-装置中间的按键， **长按5秒以上** ，屏幕会出现系统开始重置的通知，后续完成系统初始化的操作，如下所示：
+装置中间的按键， **长按6秒以上** ，屏幕会出现系统开始重置的通知，后续完成系统初始化的操作，如下所示：
 ![系统重置](4.docs/3-8.png)
 #### 7）版本更新
 在关于界面系统版本位置，当检测到系统有更新时，会在版本后显示"new"提示，用户便可以通过下载资料库中最新的bin文件，完成更新下载，如下所示：
@@ -66,9 +66,9 @@
 
 ## :four: 注意事项
 ### 1.  焊接注意
-1）光敏电阻引脚长度需保持在5-6mm左右；
+1）光敏电阻距离电路板2mm左右；
 
-![引脚长度](4.docs/4-1.png)
+![引脚长度](4.docs/5-1.png)
 
 2）注意如CH340C、SHTC3、电源LED（3V3）、二极管的元器件焊接方向；
 
@@ -85,15 +85,16 @@
 
 4）部分使用WEB Portal方式的校园网络无法使用，建议在路由器的WiFi网络环境下使用；
 
-5）该作品仅限用户个人DIY， **禁止个人私自产品化** ，商务工作请在B站私信联系[@FanTech](https://space.bilibili.com/12102785).
+5）该作品仅限用户个人DIY， **禁止个人私自产品化** ，如有问题请在B站私信联系[@FanTech](https://space.bilibili.com/12102785).
 
 ## :five: 关于
 
-### 1.  主要贡献：@[FanTech](https://space.bilibili.com/12102785) @[字节猫](https://space.bilibili.com/177322563) 
+### 1.  主要贡献：@[FanTech](https://space.bilibili.com/12102785) @[字节猫](https://space.bilibili.com/177322563) 微信公众号：ForInfo
 ### 2.  壁纸拍摄：(龙镇夜空) @[远山淡影x ](https://space.bilibili.com/378962375)
 ### 3.  感谢@[Derek Eder](https://github.com/derekeder/csv-to-html-table),[forinfo.org](https://www.forinfo.org)查询网页基于 **Derek Eder** 修改
 ### 4.  感谢@[tzapu](https://github.com/tzapu/WiFiManager),wifi配置界面基于 **tzapu** 作者汉化及修改
 ### 5.  项目开发基于[乐鑫ESP32](https://github.com/espressif/arduino-esp32)及[LVGL开源框架](https://github.com/lvgl/lvgl)支持
-### 6.  gitee地址：[https://gitee.com/FanTech](https://gitee.com/FanTech)
+### 6.  装配视频在bilibili：@[FanTech](https://space.bilibili.com/12102785)
+### 7.  gitee地址：[https://gitee.com/FanTech](https://gitee.com/FanTech)
 
 欢迎star :)
